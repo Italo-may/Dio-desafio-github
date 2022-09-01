@@ -148,4 +148,4 @@ git rebase master
 Conclusão
 
 Alguns dos comandos git básicos usados com frequência. Certifique-se de verificar o nosso tutorial GIT para uma instrução fácil de seguir sobre como configurar e usar GIT.
-[site]https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=EAIaIQobChMI4qHyhaP0-QIVbU9IAB0Adw_DEAAYASAAEgL6VPD_BwE
+[site](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=EAIaIQobChMI4qHyhaP0-QIVbU9IAB0Adw_DEAAYASAAEgL6VPD_BwE)
